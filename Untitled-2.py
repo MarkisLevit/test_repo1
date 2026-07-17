@@ -44,3 +44,5 @@ def cost_of_project(engraving, solid_gold):
         cost = len(engraving)*10
     else: cost = len(engraving)*7
     return cost
+
+print(cost_of_project("hellotattaa", True))
