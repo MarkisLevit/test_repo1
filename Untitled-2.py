@@ -47,4 +47,7 @@ def cost_of_project(engraving, solid_gold):
 
 print(cost_of_project("hellotattaa", True))
 
+#new branch added
+#second commit
 #interesting
+
